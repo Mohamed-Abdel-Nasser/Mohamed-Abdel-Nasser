@@ -8,15 +8,22 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 | **Phone**: +20101812745  
 | **WhatsApp**: [Click here](http://wa.me/+201018127745)  
 | **Email**: [m.a.nasser113@gmail.com](mailto:m.a.nasser113@gmail.com)  
-| **LinkedIn**: [Mohamed Abdel Nasser](https://www.linkedin.com/in/mohamed-abdel-nasser)  
+| **LinkedIn**: [Mohamed Abdel Nasser](https://www.linkedin.com/in/mohamed-abdel-nasser-75014019a/)  
 
 
 
 ## Skills
 
-- **Programing Languages**: C#, Java,Python, SQL 
-- **Frameworks & Tools**: .NET, Postman, Newman , Selenium , 
+- **Programing Languages**: C#, Java,Python
 - **Databases**: MS SQL, 
+- **Tools**
+      	Software Testing Tools 
+            	Project Management Software: Asana | Jira | Slack | Discord 				 
+            	APIs Testing Tools: Postman 							
+            	Performance Testing Tools: JMeter 
+            	ULM Diagram Tools: draw.io
+            	Automation Testing Tools: Selenium 
+
 
 ## Get in Touch
 
