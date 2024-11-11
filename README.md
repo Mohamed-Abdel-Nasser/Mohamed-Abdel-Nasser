@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 - ![JavaScript](https://your-image-link.com/javascript-logo.png) **JavaScript**
 - ![Java]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fj%2Fjava-logo-1%2F&psig=AOvVaw1yZl9wo0XQUV--MCp_ZCwN&ust=1731440474414000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwis-tfEhNWJAxWQQEEAHWgHAoUQjRx6BAgAEBk))
 - ![Cypress](https://your-image-link.com/cypress-logo.png) **Cypress**
-- ![Selenium](https://your-image-link.com/selenium-logo.png) **Selenium**
+- ![Selenium](https://www.selenium.dev/selenium-logo.png) **Selenium**
 - ![Postman](https://your-image-link.com/postman-logo.png) **Postman**
 - ![MySQL](https://your-image-link.com/mysql-logo.png) **MySQL**
 - ![AWS](https://your-image-link.com/aws-logo.png) **AWS**
