@@ -1,6 +1,10 @@
 # Hi 👋, I'm Mohamed Abdel Nasser
 
-Welcome to my GitHub profile! I am an enthusiastic software developer with expertise in C#, .NET, SQL, and API development. Passionate about solving real-world problems through coding, I focus on backend development, automation, and contributing to open-source projects.
+Welcome to my GitHub profile! I am an enthusiastic Software Testing Engineer with expertise in Manual and Automation Testing, 
+focused on ensuring software quality through comprehensive testing processes.  
+I specialize in creating efficient test strategies and delivering reliable software solutions. My work revolves around maintaining high standards of quality assurance
+
+
 
 
 
