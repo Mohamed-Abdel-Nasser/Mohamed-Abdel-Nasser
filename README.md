@@ -42,3 +42,23 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 
 - **Automation Testing Tools**
       Selenium
+
+
+  ## Tools/Languages/Technologies I Use/Know
+
+<p align="center">
+  <img src="https://path-to-your-image.com/python-logo.png" alt="Python" width="50"/>
+  <img src="https://path-to-your-image.com/javascript-logo.png" alt="JavaScript" width="50"/>
+  <img src="https://path-to-your-image.com/java-logo.png" alt="Java" width="50"/>
+  <img src="https://path-to-your-image.com/cypress-logo.png" alt="Cypress" width="50"/>
+  <img src="https://path-to-your-image.com/selenium-logo.png" alt="Selenium" width="50"/>
+  <img src="https://path-to-your-image.com/postman-logo.png" alt="Postman" width="50"/>
+  <img src="https://path-to-your-image.com/mysql-logo.png" alt="MySQL" width="50"/>
+  <img src="https://path-to-your-image.com/aws-logo.png" alt="AWS" width="50"/>
+  <img src="https://path-to-your-image.com/amplify-logo.png" alt="AWS Amplify" width="50"/>
+  <img src="https://path-to-your-image.com/firebase-logo.png" alt="Firebase" width="50"/>
+  <img src="https://path-to-your-image.com/linux-logo.png" alt="Linux" width="50"/>
+  <img src="https://path-to-your-image.com/docker-logo.png" alt="Docker" width="50"/>
+  <!-- Add other tools with similar formatting -->
+</p>
+
