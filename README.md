@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 ### Software Testing Tools
 
 - **Project Management Software**
-    - ![Asana Logo](![image](https://github.com/user-attachments/assets/1d1103d7-ca0a-47e5-ae82-2947ca27222f)) Asana
+    - ![Asana Logo]([![image](https://github.com/user-attachments/assets/1d1103d7-ca0a-47e5-ae82-2947ca27222f)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Fasana&psig=AOvVaw1-R0p73pDdPmpfGrFjBnpp&ust=1731438222380000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODy4ZL81IkDFQAAAAAdAAAAABAE)) Asana
     - ![Jira Logo](https://path-to-your-image.com/jira-logo.png) Jira
     - ![Slack Logo](https://path-to-your-image.com/slack-logo.png) Slack
     - ![Discord Logo](https://path-to-your-image.com/discord-logo.png) Discord
