@@ -10,18 +10,18 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 | **Email**: [m.a.nasser113@gmail.com](mailto:m.a.nasser113@gmail.com)  
 | **LinkedIn**: [Mohamed Abdel Nasser](https://www.linkedin.com/in/mohamed-abdel-nasser-75014019a/)  
 
-| Phone: +20101812745  
-| WhatsApp: [![WhatsApp Logo](https://path-to-your-image.com/whatsapp-logo.png)](https://wa.me/20101812745) Click here  
-| Email: [![Gmail Logo](https://path-to-your-image.com/gmail-logo.png)](mailto:m.a.nasser113@gmail.com) m.a.nasser113@gmail.com  
-| LinkedIn: [![LinkedIn Logo](https://path-to-your-image.com/linkedin-logo.png)](https://www.linkedin.com/in/mohamed-abdel-nasser) Mohamed Abdel Nasser  
+# Hi 👋, I'm Mohamed Raslan
 
-[![Phone Logo](https://path-to-your-image.com/phone-logo.png)](tel:+20101812745) +20101812745
 
-[![WhatsApp Logo](https://path-to-your-image.com/whatsapp-logo.png)](https://wa.me/20101812745) Click here
 
-[![Gmail Logo](https://path-to-your-image.com/gmail-logo.png)](mailto:m.a.nasser113@gmail.com) m.a.nasser113@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-raslan/)
+[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:raslan@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+20101812745)
 
-[![LinkedIn Logo](https://path-to-your-image.com/linkedin-logo.png)](https://www.linkedin.com/in/your-profile) Mohamed Abdel Nasser
+---
+
+Thank you for visiting my profile!
+
 
 
 ## Skills
