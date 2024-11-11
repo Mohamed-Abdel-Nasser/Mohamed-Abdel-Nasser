@@ -11,12 +11,6 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 
 ---
 
-
-
-Thank you for visiting my profile!
-
-
-
 ## Skills
 
 ## Programming Languages
@@ -40,3 +34,7 @@ Thank you for visiting my profile!
 
 - **Automation Testing Tools**
       Selenium
+---
+
+  Thank you for visiting my profile!
+
