@@ -46,19 +46,18 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 
   ## Tools/Languages/Technologies I Use/Know
 
-<p align="center">
-  <img src="https://path-to-your-image.com/python-logo.png" alt="Python" width="50"/>
-  <img src="https://path-to-your-image.com/javascript-logo.png" alt="JavaScript" width="50"/>
-  <img src="https://path-to-your-image.com/java-logo.png" alt="Java" width="50"/>
-  <img src="https://path-to-your-image.com/cypress-logo.png" alt="Cypress" width="50"/>
-  <img src="https://path-to-your-image.com/selenium-logo.png" alt="Selenium" width="50"/>
-  <img src="https://path-to-your-image.com/postman-logo.png" alt="Postman" width="50"/>
-  <img src="https://path-to-your-image.com/mysql-logo.png" alt="MySQL" width="50"/>
-  <img src="https://path-to-your-image.com/aws-logo.png" alt="AWS" width="50"/>
-  <img src="https://path-to-your-image.com/amplify-logo.png" alt="AWS Amplify" width="50"/>
-  <img src="https://path-to-your-image.com/firebase-logo.png" alt="Firebase" width="50"/>
-  <img src="https://path-to-your-image.com/linux-logo.png" alt="Linux" width="50"/>
-  <img src="https://path-to-your-image.com/docker-logo.png" alt="Docker" width="50"/>
-  <!-- Add other tools with similar formatting -->
-</p>
+## Tools/Languages/Technologies I Use/Know
+
+- ![Python](https://your-image-link.com/python-logo.png) **Python**
+- ![JavaScript](https://your-image-link.com/javascript-logo.png) **JavaScript**
+- ![Java](https://your-image-link.com/java-logo.png) **Java**
+- ![Cypress](https://your-image-link.com/cypress-logo.png) **Cypress**
+- ![Selenium](https://your-image-link.com/selenium-logo.png) **Selenium**
+- ![Postman](https://your-image-link.com/postman-logo.png) **Postman**
+- ![MySQL](https://your-image-link.com/mysql-logo.png) **MySQL**
+- ![AWS](https://your-image-link.com/aws-logo.png) **AWS**
+- ![AWS Amplify](https://your-image-link.com/aws-amplify-logo.png) **AWS Amplify**
+- ![Firebase](https://your-image-link.com/firebase-logo.png) **Firebase**
+- ![Linux](https://your-image-link.com/linux-logo.png) **Linux**
+- ![Docker](https://your-image-link.com/docker-logo.png) **Docker**
 
