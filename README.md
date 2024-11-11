@@ -10,6 +10,10 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 | **Email**: [m.a.nasser113@gmail.com](mailto:m.a.nasser113@gmail.com)  
 | **LinkedIn**: [Mohamed Abdel Nasser](https://www.linkedin.com/in/mohamed-abdel-nasser-75014019a/)  
 
+| Phone: +20101812745  
+| WhatsApp: [![WhatsApp Logo](https://path-to-your-image.com/whatsapp-logo.png)](https://wa.me/20101812745) Click here  
+| Email: [![Gmail Logo](https://path-to-your-image.com/gmail-logo.png)](mailto:m.a.nasser113@gmail.com) m.a.nasser113@gmail.com  
+| LinkedIn: [![LinkedIn Logo](https://path-to-your-image.com/linkedin-logo.png)](https://www.linkedin.com/in/mohamed-abdel-nasser) Mohamed Abdel Nasser  
 
 
 ## Skills
