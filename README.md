@@ -26,19 +26,19 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 ### Software Testing Tools
 
 - **Project Management Software**
-    - ![Asana Logo](https://i.pcmag.com/imagery/reviews/07koiYlrzusMasUtb8S1jz8-14..v1580335304.png) Asana
-    - ![Jira Logo](https://path-to-your-image.com/jira-logo.png) Jira
-    - ![Slack Logo](https://path-to-your-image.com/slack-logo.png) Slack
-    - ![Discord Logo](https://path-to-your-image.com/discord-logo.png) Discord
+    -  Asana
+    - Jira
+    - Slack
+    - Discord
 
 - **API Testing Tools**
-    - ![Postman Logo](https://path-to-your-image.com/postman-logo.png) Postman
+       Postman
 
 - **Performance Testing Tools**
-    - ![JMeter Logo](https://path-to-your-image.com/jmeter-logo.png) JMeter
+      JMeter
 
 - **UML Diagram Tools**
-    - ![Draw.io Logo](https://path-to-your-image.com/drawio-logo.png) draw.io
+       draw.io
 
 - **Automation Testing Tools**
-    - ![Selenium Logo](https://path-to-your-image.com/selenium-logo.png) Selenium
+      Selenium
