@@ -1,16 +1,23 @@
-## Hi there 👋
+# Mohamed Abdel Nasser
 
-<!--
-**Mohamed-Abdel-Nasser/Mohamed-Abdel-Nasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an enthusiastic software developer with expertise in C#, .NET, SQL, and API development. Passionate about solving real-world problems through coding, I focus on backend development, automation, and contributing to open-source projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contact 
+| **Phone**: +20101812745  
+| **WhatsApp**: [Click here](http://wa.me/+201018127745)  
+| **Email**: [m.a.nasser113@gmail.com](mailto:m.a.nasser113@gmail.com)  
+| **LinkedIn**: [Mohamed Abdel Nasser](https://www.linkedin.com/in/mohamed-abdel-nasser)  
+
+
+
+## Skills
+
+- **Programing Languages**: C#, Java,Python, SQL 
+- **Frameworks & Tools**: .NET, Postman, Newman , Selenium , 
+- **Databases**: MS SQL, 
+
+## Get in Touch
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mohamed-abdel-nasser) or send an email to [m.a.nasser113@gmail.com](mailto:m.a.nasser113@gmail.com). Let’s collaborate and make something great!
