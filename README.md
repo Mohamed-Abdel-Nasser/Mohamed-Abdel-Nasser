@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I am an enthusiastic software developer with exper
 
 - ![Python](https://your-image-link.com/python-logo.png) **Python**
 - ![JavaScript](https://your-image-link.com/javascript-logo.png) **JavaScript**
-- ![Java](https://your-image-link.com/java-logo.png) **Java**
+- ![Java]([https://your-image-link.com/java-logo.png](https://www.java.com/en/)) **Java**
 - ![Cypress](https://your-image-link.com/cypress-logo.png) **Cypress**
 - ![Selenium](https://your-image-link.com/selenium-logo.png) **Selenium**
 - ![Postman](https://your-image-link.com/postman-logo.png) **Postman**
