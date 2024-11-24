@@ -37,7 +37,7 @@ I specialize in creating efficient test strategies and delivering reliable softw
        draw.io
 
 - **Automation Testing Tools**
-      Selenium:https       ://github.com/Mohamed-Abdel-Nasser/Seleinum-WD-Projects
+      Selenium:https://github.com/Mohamed-Abdel-Nasser/Seleinum-WD-Projects
 ---
 
   Thank you for visiting my profile!
