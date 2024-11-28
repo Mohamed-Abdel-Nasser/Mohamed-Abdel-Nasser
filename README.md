@@ -18,12 +18,12 @@ I specialize in creating efficient test strategies and delivering reliable softw
 ## Skills
 
 ## Programming Languages
-- **C#**           :https://github.com/Mohamed-Abdel-Nasser/C-Sharp-.Net-Framework
+- **C#** :https://github.com/Mohamed-Abdel-Nasser/C-Sharp-.Net-Framework
 - **Java**
 - **Python**
 
 ## Databases
-- **MS SQL**       :https://github.com/Mohamed-Abdel-Nasser/SQL-Projects
+- **MS SQL**:https://github.com/Mohamed-Abdel-Nasser/SQL-Projects
 
 ## Tools
 ### Software Testing Tools
@@ -31,8 +31,8 @@ I specialize in creating efficient test strategies and delivering reliable softw
 - **Automation Testing Tools**
       Selenium:https://github.com/Mohamed-Abdel-Nasser/Seleinum-WD-Projects
      
-- **API Testing Tools**
-       Postman       :https://github.com/Mohamed-Abdel-Nasser/APIs-Postman
+- **API Testing Tools** 
+       Postman:https://github.com/Mohamed-Abdel-Nasser/APIs-Postman
 
 - **Performance Testing Tools**
       JMeter
