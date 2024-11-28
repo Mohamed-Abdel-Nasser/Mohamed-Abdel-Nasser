@@ -28,17 +28,17 @@ I specialize in creating efficient test strategies and delivering reliable softw
 ## Tools
 ### Software Testing Tools
 
-- **Automation Testing Tools**
-      Selenium:https://github.com/Mohamed-Abdel-Nasser/Seleinum-WD-Projects
+- **Automation Testing Tools**    
+          --> Selenium:https://github.com/Mohamed-Abdel-Nasser/Seleinum-WD-Projects
      
-- **API Testing Tools**          
+- **API Testing Tools**       
           --> Postman:https://github.com/Mohamed-Abdel-Nasser/APIs-Postman
 
-- **Performance Testing Tools**
-      JMeter
+- **Performance Testing Tools**   
+          --> JMeter
 
-- **UML Diagram Tools**
-       draw.io
+- **UML Diagram Tools**   
+          --> draw.io
 
 ---
 
