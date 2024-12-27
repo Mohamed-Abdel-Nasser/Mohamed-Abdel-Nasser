@@ -43,6 +43,6 @@ I specialize in creating efficient test strategies and delivering reliable softw
 - **UML Diagram Tools**
      - **draw.io**
 ---
-
+[![](https://visitcount.itsvg.in/api?id=Mohamed-Abdel-Nasser&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
   Thank you for visiting my profile!
 
