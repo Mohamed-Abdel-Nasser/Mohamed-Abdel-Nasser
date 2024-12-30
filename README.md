@@ -40,6 +40,14 @@ I am actively learning **Test Automation** with a focus on **Selenium** and **Ja
 
 
 ----
+## Live Projects
+![Seleniums](https://img.shields.io/badge/Selenium_Live_Projects-green.svg?style=flat&logo=selenium&logoColor=white)    
+Here are some live projects Using **Selenium** and **Java** that you can explore:
+
+- [Automation Exercise Website](https://github.com/Mohamed-Abdel-Nasser/Automation-Exercise-Website)
+- [OrangeHRM Website](https://github.com/Mohamed-Abdel-Nasser/OrangeHRM-Website)
+- [Magento Website](https://github.com/Mohamed-Abdel-Nasser/Magento-Website)
+----
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohamed-Abdel-Nasser&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Abdel-Nasser&theme=gruvbox&hide_border=false)<br/>
