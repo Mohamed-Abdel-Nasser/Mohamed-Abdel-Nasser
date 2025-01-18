@@ -47,6 +47,7 @@ Here are some live projects Using **Selenium** and **Java** that you can explore
 - [Automation Exercise Website](https://github.com/Mohamed-Abdel-Nasser/Automation-Exercise-Website)
 - [OrangeHRM Website](https://github.com/Mohamed-Abdel-Nasser/OrangeHRM-Website)
 - [Magento Website](https://github.com/Mohamed-Abdel-Nasser/Magento-Website)
+- [Bellatrix](https://github.com/Mohamed-Abdel-Nasser/Bellatrix)
 ----
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohamed-Abdel-Nasser&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
