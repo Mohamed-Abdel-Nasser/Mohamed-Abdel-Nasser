@@ -48,7 +48,6 @@ Here are some live projects Using **Selenium** and **Java** that you can explore
 <img src="https://opensource-demo.orangehrmlive.com/web/images/ohrm_branding.png?v=1721393199309" alt="OrangeHRM" width="100">
 
 # OrangeHRM
-
 **OrangeHRM** is a highly modular and scalable test automation framework specifically engineered for comprehensive end-to-end web application testing. 
 Developed using **Selenium WebDriver**, it offers a robust foundation for creating clean, maintainable, and reusable automated test cases. Its modular design ensures flexibility, enabling seamless integration with various tools and technologies while maintaining high standards of performance, reliability, and test coverage.
 
