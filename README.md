@@ -44,8 +44,13 @@ I am actively learning **Test Automation** with a focus on **Selenium** and **Ja
 ![Seleniums](https://img.shields.io/badge/Selenium_Live_Projects-green.svg?style=flat&logo=selenium&logoColor=white)    
 Here are some live projects Using **Selenium** and **Java** that you can explore:
 
-- [Automation Exercise Website](https://github.com/Mohamed-Abdel-Nasser/Automation-Exercise-Website)
+
+<img src="https://opensource-demo.orangehrmlive.com/web/images/ohrm_branding.png?v=1721393199309" alt="OrangeHRM" width="100">
+
 - [OrangeHRM Website](https://github.com/Mohamed-Abdel-Nasser/OrangeHRM-Website)
+---
+
+- [Automation Exercise Website](https://github.com/Mohamed-Abdel-Nasser/Automation-Exercise-Website)
 - [Magento Website](https://github.com/Mohamed-Abdel-Nasser/Magento-Website)
 - [Bellatrix](https://github.com/Mohamed-Abdel-Nasser/Bellatrix)
 ----
