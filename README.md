@@ -50,13 +50,6 @@ Here are some live projects Using **Selenium** and **Java** that you can explore
 **OrangeHRM** is a highly modular and scalable test automation framework specifically engineered for comprehensive end-to-end web application testing. 
 Developed using **Selenium WebDriver**, it offers a robust foundation for creating clean, maintainable, and reusable automated test cases. Its modular design ensures flexibility, enabling seamless integration with various tools and technologies while maintaining high standards of performance, reliability, and test coverage.
 
-OrangeHRM is a comprehensive Human Resource Management (HRM) System that captures all the essential functionalities required for any enterprise. Copyright (C) 2006 OrangeHRM Inc., http://www.orangehrm.com/
-
-OrangeHRM is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
-
-OrangeHRM is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-
 - [OrangeHRM Website](https://github.com/Mohamed-Abdel-Nasser/OrangeHRM-Website)
 ---
 
